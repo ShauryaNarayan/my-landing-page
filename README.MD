@@ -1,1 +1,8 @@
 This project is a fully responsive landing page developed for Clove Dental, designed to accurately replicate the official Figma layout across desktop, tablet, and mobile devices. It includes complete sections such as the hero banner, navigation bar, mobile hamburger menu, treatments section, why-choose-us features, Google Reviews with both desktop and mobile-specific layouts, a city finder grid, an FAQ section, and a structured footer. The design follows a desktop-first approach, while the mobile version is rebuilt to reflect true Figma mobile behavior. Tablet view follows a T1 strategy, meaning it retains the desktop structure without breaking the layout. The CSS is clean, modular, and optimized, featuring responsive layouts, anti-stretch image rules, and well-structured class naming for maintainability. The project uses only HTML, CSS, JavaScript, Google Fonts, and CDN-hosted images, making it lightweight and fast. All images are responsive with object-fit rules to prevent distortion, and JavaScript handles the mobile menu toggle and FAQ expansion. The entire codebase is organized for easy updates and suitable for real-world production deployment. You can run the project simply by opening the index.html file in any browser or using a local server such as VS Code Live Server. This landing page has been structured and built with professional standards, ensuring a clean UI, stable responsiveness, and consistent performance across modern browsers.
+
+![alt text](<screenshots/Screenshot (477).png>)
+![alt text](<screenshots/Screenshot (478).png>)
+![alt text](<screenshots/Screenshot (479).png>)
+![alt text](<screenshots/Screenshot (480).png>)
+![alt text](<screenshots/Screenshot (481).png>)
+![alt text](<screenshots/Screenshot (482).png>)
